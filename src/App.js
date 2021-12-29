@@ -245,7 +245,7 @@ function App() {
                         onChange={handleChange}
                         className="w-100 py-2 px-3 text-center"
                       />
-                      <p className="my-3 text-center">1 BNB = 100,000,000 CANYON</p>
+                      <p className="my-3 text-center">1 BNB = 100 000 000 $CANYON</p>
                       <div className="text-center my-2">
                         <button className="btn btn-main"
                           onClick={buy}
@@ -258,7 +258,7 @@ function App() {
                                 : "block"
                           }}
                         >
-                          Buy Tokens
+                          BUY TOKENS
                         </button>
                       </div>
                       <div className="small-text mt-4"
@@ -272,10 +272,10 @@ function App() {
                            }}
                       >
                         <p className="p-0 mt-0 mx-0 mb-3 fw-bold">
-                          Don't forget to add $CANYON as as a custom token to your wallet!
+                          Don't forget to Add $CANYON as a Custom Smart Chain Token to your Wallet!
                         </p>
                         <p className="p-0 m-0">
-                          Contract: <span className="pink-text">0xF08431B7A3bcF69f375fa4c230425150473A3Fb8</span>
+                          Address: <span className="pink-text">0xF08431B7A3bcF69f375fa4c230425150473A3Fb8</span>
                         </p>
                         <p className="p-0 m-0">
                           Name: <span className="pink-text">CODECANYON</span>

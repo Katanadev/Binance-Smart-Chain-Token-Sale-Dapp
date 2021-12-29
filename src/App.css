@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #5d636e;
+  background-color: #ffffff;
   width: 100vw;
   background-position: center;
   background-size: cover;
@@ -26,7 +26,7 @@
   font-size: 1.1em;
   font-weight: bold;
   line-height: 1.8em;
-  color: black;
+  color: #ffffff;
   overflow-x: hidden;
 }
 
@@ -35,13 +35,13 @@
 }
 
 .App-link, .pink-text {
-  color: #ffffff;
+  color: #FFA500;
 }
 
 .btn-main {
   width: 70%;
-  border: 2px solid #000000;
-  color: #000000;
+  border: 2px solid #FFA500;
+  color: #FFA500;
   background: transparent;
   font-size: 1.1em;
   font-weight: bold;
@@ -51,7 +51,7 @@
 
 .btn-main:hover {
   color: white;
-  background: #1E7FCB;
+  background: #FFA500;
 }
 
 .small-text {
